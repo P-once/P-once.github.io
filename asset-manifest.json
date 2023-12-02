@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6cd8287f.css",
-    "main.js": "/react-gh-pages/static/js/main.1492d173.js",
-    "static/js/787.d3befce1.chunk.js": "/react-gh-pages/static/js/787.d3befce1.chunk.js",
-    "static/media/Time3.PNG": "/react-gh-pages/static/media/Time3.7c32dfe6fe9d270ba6f8.PNG",
-    "static/media/Time4.PNG": "/react-gh-pages/static/media/Time4.0659662935e205070665.PNG",
-    "static/media/Time2.PNG": "/react-gh-pages/static/media/Time2.6e78da42619979d275c4.PNG",
-    "static/media/Time1.PNG": "/react-gh-pages/static/media/Time1.c5abb46349bd3dfbae4a.PNG",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6cd8287f.css.map": "/react-gh-pages/static/css/main.6cd8287f.css.map",
-    "main.1492d173.js.map": "/react-gh-pages/static/js/main.1492d173.js.map",
-    "787.d3befce1.chunk.js.map": "/react-gh-pages/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/myApp/static/css/main.6cd8287f.css",
+    "main.js": "/myApp/static/js/main.50ff18cf.js",
+    "static/js/787.d3befce1.chunk.js": "/myApp/static/js/787.d3befce1.chunk.js",
+    "static/media/Time3.PNG": "/myApp/static/media/Time3.7c32dfe6fe9d270ba6f8.PNG",
+    "static/media/Time4.PNG": "/myApp/static/media/Time4.0659662935e205070665.PNG",
+    "static/media/Time2.PNG": "/myApp/static/media/Time2.6e78da42619979d275c4.PNG",
+    "static/media/Time1.PNG": "/myApp/static/media/Time1.c5abb46349bd3dfbae4a.PNG",
+    "index.html": "/myApp/index.html",
+    "main.6cd8287f.css.map": "/myApp/static/css/main.6cd8287f.css.map",
+    "main.50ff18cf.js.map": "/myApp/static/js/main.50ff18cf.js.map",
+    "787.d3befce1.chunk.js.map": "/myApp/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cd8287f.css",
-    "static/js/main.1492d173.js"
+    "static/js/main.50ff18cf.js"
   ]
 }
