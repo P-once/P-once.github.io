@@ -10,7 +10,7 @@ import MiniCog from './Examenes/MiniCog';
 import Raven from './Examenes/Raven';
 
 function App() {
-  return <PSQI />;
+  return <MiniCog />;
 }
 
 export default App;
