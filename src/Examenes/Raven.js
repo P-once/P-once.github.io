@@ -10,7 +10,18 @@ const examenRaven = {
     showQuestionNumbers: "off",
     showTimerPanel: "top",
     maxTimeToFinish: 600,
-    pages: []
+    firstPageIsStarted: true,
+    startSurveyText: "Empezar",
+    pages: [{
+      elements: [
+      {
+          type: "html",
+          html: "<h2>Examen Raven</h2>"
+      },{
+        type: "html",
+        html: "<label for='checkbox'> Al iniciar acepta los <a href='https://github.com/P-once/myApp/tree/main/src/terminos' target='_blank'>terminos y condiciones</a>.</label>"
+    }],
+      }, ]
 };
 
 
